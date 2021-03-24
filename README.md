@@ -1,3 +1,3 @@
-<H1> aidan is cool </H>
+<H1> aidan is cool
 <p> hello please appear</p>
 
