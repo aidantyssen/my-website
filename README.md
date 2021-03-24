@@ -1,6 +1,13 @@
-<h1> personal information </h>
-<p>Aidan Tyssen
-Student number-3898351
-Email-s3898351@student.rmit.edu.au
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+<title>my IT assignment</title>
+</head>
+<body>
 
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+\
